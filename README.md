@@ -1,1 +1,1 @@
-# cwg-clone 
+# This is a clone of the cwg website 
